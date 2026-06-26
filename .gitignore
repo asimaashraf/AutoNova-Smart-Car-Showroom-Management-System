@@ -1,20 +1,9 @@
-# Visual Studio
 .vs/
 bin/
 obj/
-
-# Python
+myenv/
 __pycache__/
 *.pyc
-myenv/
-venv/
-
-# Environment files
-.env
-
-# Logs
-*.log
-
-# OS files
-Thumbs.db
-.DS_Store
+*.user
+*.joblib
+packages/
