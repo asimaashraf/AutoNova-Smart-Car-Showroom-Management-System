@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+myenv/
+__pycache__/
+*.pyc
+*.user
+*.joblib
+packages/
